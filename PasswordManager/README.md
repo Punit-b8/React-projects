@@ -16,7 +16,6 @@ Designed and developed a secure Password Manager application using React, allowi
 
 Key Features
 - Secure Password Storage: Implemented a secure password storage system using local storage encryption.
-- Password Generation: Added a password generation feature to create strong and unique passwords.
 - Password Editing and Deletion: Implemented features to edit and delete existing passwords.
 - Copy to Clipboard: Added a copy-to-clipboard feature for easy password copying.
 - Toast Notifications: Integrated toast notifications for user feedback and alerts.
